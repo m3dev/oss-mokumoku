@@ -27,7 +27,7 @@ OSS に興味がある、貢献したい人
 https://github.com/m3dev/oss-mokumoku/pull/1
 
 テンプレ:
-https://github.com/m3dev/oss-mokumoku/members/tree/master/_template_.md
+https://github.com/m3dev/oss-mokumoku/tree/master/members/_template_.md
 
 ### 発表
 
