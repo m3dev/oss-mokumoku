@@ -3,7 +3,7 @@
 高橋 勝平 (Shohei Takahashi)
 
 - [twitter](https://twitter.com/tshohe1)
-　　 - まるで使ってこなかったので使っていきたいと思っているところ
+  - まるで使ってこなかったので使っていきたいと思っているところ
 - [blog](https://tsts.hatenablog.com/)
   - これも6月くらいに始めたばかり
 - [qiita](https://qiita.com/tshohe)
