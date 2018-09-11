@@ -37,6 +37,12 @@ github.com/m3dev/oss-mokumoku/issues
 
 それを元に簡単に取り組んだことを共有します。
 
+### コミュニケーション
+
+こちらで気軽に話しましょう。
+
+https://gitter.im/oss-mokumoku/general
+
 
 ## 参考
 
